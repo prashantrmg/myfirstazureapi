@@ -1,0 +1,3 @@
+﻿curl -X 'GET' \
+  'https://azweatherwebapp.azurewebsites.net/WeatherForecast' \
+  -H 'accept: text/plain'
